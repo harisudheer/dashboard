@@ -1456,50 +1456,50 @@ export const customersData = [
 export const employeesData = [
   {
     EmployeeID: 1,
-    Name: 'Nancy Davolio',
+    Name: 'Fayaz',
     Title: 'Sales Representative',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'IND',
     ReportsTo: 'Carson',
     EmployeeImage:
     avatar3,
   },
   {
     EmployeeID: 2,
-    Name: 'Nasimiyu Danai',
+    Name: 'Chandu',
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'IND',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar3,
   },
   {
     EmployeeID: 3,
-    Name: 'Iulia Albu',
+    Name: 'Madhu',
     Title: 'HR',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'IND',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar4,
   },
   {
     EmployeeID: 4,
-    Name: 'Siegbert Gottfried',
+    Name: 'Akshaya',
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'IND',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar2,
   },
   {
     EmployeeID: 5,
-    Name: 'Omar Darobe',
+    Name: 'Sai Teja',
     Title: 'HR',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'IND',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar,
@@ -1516,20 +1516,20 @@ export const employeesData = [
   },
   {
     EmployeeID: 5,
-    Name: 'Miron Vitold',
+    Name: 'Padma',
     Title: 'HR',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'IND',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar2,
   },
   {
     EmployeeID: 1,
-    Name: 'Nancy Davolio',
+    Name: 'Poorna Chandrika',
     Title: 'Sales Representative',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'IND',
     ReportsTo: 'Carson',
     EmployeeImage:
     avatar2,
@@ -1537,10 +1537,10 @@ export const employeesData = [
   },
   {
     EmployeeID: 2,
-    Name: 'Nasimiyu Danai',
+    Name: 'Saiessh',
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'IND',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar3,
@@ -1567,7 +1567,7 @@ export const employeesData = [
   },
   {
     EmployeeID: 5,
-    Name: 'Omar Darobe',
+    Name: 'Hari',
     Title: 'HR',
     HireDate: '01/02/2021',
     Country: 'USA',
