@@ -44,7 +44,7 @@ const Scheduler = () => {
             <tr style={{ height: '50px' }}>
               <td style={{ width: '100%' }}>
                 <DatePickerComponent
-                  value={new Date(2021, 0, 10)}
+                  value={new Date(2024, 0, 10)}
                   showClearButton={false}
                   placeholder="Current Date"
                   floatLabelType="Always"
