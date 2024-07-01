@@ -84,11 +84,11 @@ export const EditorData = () => (
        It is the seventh-largest country by area; the most populous country as of June 2023;and from the time of its independence in 1947, the world's most populous democracy.It is physiographically bounded by the Indian Ocean on the south, the Arabian Sea on the southwest, the Bay of Bengal on the southeast, and High-mountain Asia on the northeast. 
        It shares land borders with Pakistan to the northwest;[j] China, Nepal, and Bhutan to the north; and Bangladesh and Myanmar to the east. In the Indian Ocean, India is in the vicinity of Sri Lanka and the Maldives; its Andaman and Nicobar Islands share a maritime border with Thailand, Myanmar, and Indonesia.
 
-Modern humans arrived on the Indian subcontinent from Africa no later than 55,000 years ago. 
-Their long occupation, initially in varying forms of isolation as hunter-gatherers, has made the region highly diverse, second only to Africa in human genetic diversity. 
-Settled life emerged on the subcontinent in the western margins of the Indus river basin 9,000 years ago, evolving gradually into the Indus Valley Civilisation of the third millennium BCE. 
-By 1200 BCE, an archaic form of Sanskrit, an Indo-European language, had diffused into India from the northwest. 
-Its evidence today is found in the hymns of the Rigveda. Preserved by an oral tradition that was resolutely vigilant, the Rigveda records the dawning of Hinduism in India. The Dravidian languages of India were supplanted in the northern and western regions. By 400 BCE, stratification and exclusion by caste had emerged within Hinduism, and Buddhism and Jainism had arisen, proclaiming social orders unlinked to heredity. Early political consolidations gave rise to the loose-knit Maurya and Gupta Empires based in the Ganges Basin. Their collective era was suffused with wide-ranging creativity, but also marked by the declining status of women, and the incorporation of untouchability into an organised system of belief. In South India, the Middle kingdoms exported Dravidian-languages scripts and religious cultures to the kingdoms of Southeast Asia
+       Modern humans arrived on the Indian subcontinent from Africa no later than 55,000 years ago. 
+       Their long occupation, initially in varying forms of isolation as hunter-gatherers, has made the region highly diverse, second only to Africa in human genetic diversity. 
+       Settled life emerged on the subcontinent in the western margins of the Indus river basin 9,000 years ago, evolving gradually into the Indus Valley Civilisation of the third millennium BCE. 
+       By 1200 BCE, an archaic form of Sanskrit, an Indo-European language, had diffused into India from the northwest. 
+       Its evidence today is found in the hymns of the Rigveda. Preserved by an oral tradition that was resolutely vigilant, the Rigveda records the dawning of Hinduism in India. The Dravidian languages of India were supplanted in the northern and western regions. By 400 BCE, stratification and exclusion by caste had emerged within Hinduism, and Buddhism and Jainism had arisen, proclaiming social orders unlinked to heredity. Early political consolidations gave rise to the loose-knit Maurya and Gupta Empires based in the Ganges Basin. Their collective era was suffused with wide-ranging creativity, but also marked by the declining status of women, and the incorporation of untouchability into an organised system of belief. In South India, the Middle kingdoms exported Dravidian-languages scripts and religious cultures to the kingdoms of Southeast Asia
    </h3>
   </div>
 );
@@ -144,40 +144,40 @@ export const barPrimaryYAxis = {
 };
 const areaChartData = [
   [
-    { x: new Date(2002, 0, 1), y: 2.2 },
-    { x: new Date(2003, 0, 1), y: 3.4 },
-    { x: new Date(2004, 0, 1), y: 2.8 },
-    { x: new Date(2005, 0, 1), y: 1.6 },
-    { x: new Date(2006, 0, 1), y: 2.3 },
-    { x: new Date(2007, 0, 1), y: 2.5 },
-    { x: new Date(2008, 0, 1), y: 2.9 },
-    { x: new Date(2009, 0, 1), y: 3.8 },
-    { x: new Date(2010, 0, 1), y: 1.4 },
-    { x: new Date(2011, 0, 1), y: 3.1 },
+    { x: new Date(2015, 0, 1), y: 2.2 },
+    { x: new Date(2016, 0, 1), y: 3.4 },
+    { x: new Date(2017, 0, 1), y: 2.8 },
+    { x: new Date(2018, 0, 1), y: 1.6 },
+    { x: new Date(2019, 0, 1), y: 2.3 },
+    { x: new Date(2020, 0, 1), y: 2.5 },
+    { x: new Date(2021, 0, 1), y: 2.9 },
+    { x: new Date(2022, 0, 1), y: 3.8 },
+    { x: new Date(2023, 0, 1), y: 1.4 },
+    { x: new Date(2024, 0, 1), y: 3.1 },
   ],
   [
-    { x: new Date(2002, 0, 1), y: 2 },
-    { x: new Date(2003, 0, 1), y: 1.7 },
-    { x: new Date(2004, 0, 1), y: 1.8 },
-    { x: new Date(2005, 0, 1), y: 2.1 },
-    { x: new Date(2006, 0, 1), y: 2.3 },
-    { x: new Date(2007, 0, 1), y: 1.7 },
-    { x: new Date(2008, 0, 1), y: 1.5 },
-    { x: new Date(2009, 0, 1), y: 2.8 },
-    { x: new Date(2010, 0, 1), y: 1.5 },
-    { x: new Date(2011, 0, 1), y: 2.3 },
+    { x: new Date(2015, 0, 1), y: 2 },
+    { x: new Date(2016, 0, 1), y: 1.7 },
+    { x: new Date(2017, 0, 1), y: 1.8 },
+    { x: new Date(2018, 0, 1), y: 2.1 },
+    { x: new Date(2019, 0, 1), y: 2.3 },
+    { x: new Date(2020, 0, 1), y: 1.7 },
+    { x: new Date(2021, 0, 1), y: 1.5 },
+    { x: new Date(2022, 0, 1), y: 2.8 },
+    { x: new Date(2023, 0, 1), y: 1.5 },
+    { x: new Date(2024, 0, 1), y: 2.3 },
   ],
   [
-    { x: new Date(2002, 0, 1), y: 0.8 },
-    { x: new Date(2003, 0, 1), y: 1.3 },
-    { x: new Date(2004, 0, 1), y: 1.1 },
-    { x: new Date(2005, 0, 1), y: 1.6 },
-    { x: new Date(2006, 0, 1), y: 2 },
-    { x: new Date(2007, 0, 1), y: 1.7 },
-    { x: new Date(2008, 0, 1), y: 2.3 },
-    { x: new Date(2009, 0, 1), y: 2.7 },
-    { x: new Date(2010, 0, 1), y: 1.1 },
-    { x: new Date(2011, 0, 1), y: 2.3 },
+    { x: new Date(2015, 0, 1), y: 0.8 },
+    { x: new Date(2016, 0, 1), y: 1.3 },
+    { x: new Date(2017, 0, 1), y: 1.1 },
+    { x: new Date(2018, 0, 1), y: 1.6 },
+    { x: new Date(2019, 0, 1), y: 2 },
+    { x: new Date(2020, 0, 1), y: 1.7 },
+    { x: new Date(2021, 0, 1), y: 2.3 },
+    { x: new Date(2022, 0, 1), y: 2.7 },
+    { x: new Date(2023, 0, 1), y: 1.1 },
+    { x: new Date(2024, 0, 1), y: 2.3 },
   ],
 ];
 
@@ -214,18 +214,18 @@ export const areaCustomSeries = [
 
 export const barChartData = [
   [
-    { x: 'USA', y: 46 },
-    { x: 'GBR', y: 27 },
+    { x: 'IND', y: 46 },
+    { x: 'PAK', y: 27 },
     { x: 'CHN', y: 26 },
   ],
   [
-    { x: 'USA', y: 37 },
-    { x: 'GBR', y: 23 },
+    { x: 'IND', y: 37 },
+    { x: 'PAK', y: 23 },
     { x: 'CHN', y: 18 },
   ],
   [
-    { x: 'USA', y: 38 },
-    { x: 'GBR', y: 17 },
+    { x: 'IND', y: 38 },
+    { x: 'PAK', y: 17 },
     { x: 'CHN', y: 26 },
   ],
 ];
@@ -276,38 +276,38 @@ export const barCustomSeries = [
 ];
 export const colorMappingData = [
   [
-    { x: 'Jan', y: 6.96 },
-    { x: 'Feb', y: 8.9 },
-    { x: 'Mar', y: 12 },
-    { x: 'Apr', y: 17.5 },
-    { x: 'May', y: 22.1 },
-    { x: 'June', y: 25 },
-    { x: 'July', y: 29.4 },
-    { x: 'Aug', y: 29.6 },
-    { x: 'Sep', y: 25.8 },
-    { x: 'Oct', y: 21.1 },
-    { x: 'Nov', y: 15.5 },
-    { x: 'Dec', y: 9.9 },
-  ],
+    { x: 'July', y: 35.4 },
+    { x: 'Aug', y: 31.6 },
+    { x: 'Sep', y: 32.1 },
+    { x: 'Oct', y: 36.5 },
+    { x: 'Nov', y: 35.5 },
+    { x: 'Dec', y: 30.6 },
+    { x: 'Jan', y: 36.2 },
+    { x: 'Feb', y: 40.5},
+    { x: 'Mar', y: 42.5 },
+    { x: 'Apr', y: 47.2 },
+    { x: 'May', y: 40.2 },
+    { x: 'June', y: 33.6},
+   ],
   ['#FFFF99'],
   ['#FFA500'],
   ['#FF4040'],
 ];
 
 export const rangeColorMapping = [
-  { label: '1°C to 10°C',
-    start: '1',
-    end: '10',
-    colors: colorMappingData[1] },
-
-  { label: '11°C to 20°C',
-    start: '11',
-    end: '20',
-    colors: colorMappingData[2] },
-
   { label: '21°C to 30°C',
     start: '21',
     end: '30',
+    colors: colorMappingData[1] },
+
+  { label: '31°C to 40°C',
+    start: '31',
+    end: '40',
+    colors: colorMappingData[2] },
+
+  { label: '41°C to 50°C',
+    start: '41',
+    end: '50',
     colors: colorMappingData[3] },
 
 ];
