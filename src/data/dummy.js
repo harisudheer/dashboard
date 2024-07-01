@@ -281,7 +281,7 @@ export const colorMappingData = [
     { x: 'Sep', y: 32.1 },
     { x: 'Oct', y: 36.5 },
     { x: 'Nov', y: 35.5 },
-    { x: 'Dec', y: 30.6 },
+    { x: 'Dec', y: 32.6 },
     { x: 'Jan', y: 36.2 },
     { x: 'Feb', y: 40.5},
     { x: 'Mar', y: 42.5 },
